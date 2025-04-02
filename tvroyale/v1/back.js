@@ -8,6 +8,7 @@ function geturl() {
 }
 function getchannels() {
     let channeldb = [
+        ["NULL", "NULL"],
         ["http://api.toonamiaftermath.com:3000/est/playlist.m3u8", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/toonami.png"],
         ["http://v1.weatherscan.net", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/weatherscan.png"],
         ["NULL", "NULL"],
