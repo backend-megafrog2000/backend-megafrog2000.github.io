@@ -16,7 +16,7 @@ function getchannels() {
         ["http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-megafrog2000.github.io/tvroyale/v1/bannners/newsnation.png"],
         ["https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8", "https://backend-megafrog2000.github.io/tvroyale/v1/bannners/adultswim.png"],
         ["http://fl2.moveonjoy.com/FX/index.m3u8", "https://backend-megafrog2000.github.io/tvroyale/v1/bannners/fx.png"],
-        ["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343", "https://backend-megafrog2000.github.io/tvroyale/v1/bannners/vevo2ks.png"],
+        ["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343", "https://backend-megafrog2000.github.io/tvroyale/v1/bannners/vevo2k.png"],
         ["NULL", "NULL"],
         ["NULL", "NULL"],
         ["NULL", "NULL"],
