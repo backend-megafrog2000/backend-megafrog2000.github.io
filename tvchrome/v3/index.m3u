@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ch1", Channel 1
+http://null.com/null/index.3u8
+#EXTINF:-1 tvg-id="ch2,FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="ch3",News Nation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="ch4",Weather Channel
+https://v1.weatherscan.net/
+#EXTINF:-1 tvg-id="ch5",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="ch6",E!
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
