@@ -13,3 +13,15 @@ https://v2.weatherscan.net/
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="ch7",E!
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ch8",STVR 1
+https://www.stvr.sk/embed/live/1
+#EXTINF:-1 tvg-id="ch9",STVR 2
+https://www.stvr.sk/embed/live/2
+#EXTINF:-1 tvg-id="ch10",STVR 24
+https://www.stvr.sk/embed/live/3
+#EXTINF:-1 tvg-id="ch11",JOJ
+https://www.joj.sk/live
+#EXTINF:-1 tvg-id="ch12",Toonami Aftermath
+https://media.cms.markiza.sk/embed/markiza-live?autoplay=any
+#EXTINF:-1 tvg-id="ch13",Toonami Aftermath
+https://media.cms.markiza.sk/embed/dajto-live?autoplay=any

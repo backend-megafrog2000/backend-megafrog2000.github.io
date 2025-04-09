@@ -8,12 +8,12 @@ function getchannels() {
         ["http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-megafrog2000.github.io/tvchrome/v3/ch5.gif"],
         ["http://api.toonamiaftermath.com:3000/est/playlist.m3u8", "https://backend-megafrog2000.github.io/tvchrome/v3/ch6.gif"],
         ["http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8", "https://backend-megafrog2000.github.io/tvchrome/v3/ch7.gif"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"]
+        ["https://www.stvr.sk/embed/live/1", "https://backend-megafrog2000.github.io/tvchrome/v3/ch8.gif"],
+        ["https://www.stvr.sk/embed/live/2", "https://backend-megafrog2000.github.io/tvchrome/v3/ch9.gif"],
+        ["https://www.stvr.sk/embed/live/3", "https://backend-megafrog2000.github.io/tvchrome/v3/ch10.gif"],
+        ["https://www.joj.sk/live", "https://backend-megafrog2000.github.io/tvchrome/v3/ch11.gif"],
+        ["https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-megafrog2000.github.io/tvchrome/v3/ch12.gif"],
+        ["https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-megafrog2000.github.io/tvchrome/v3/ch13.gif"]
     ];
     return channels;
 }
