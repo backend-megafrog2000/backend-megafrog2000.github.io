@@ -19,7 +19,7 @@ function getchannels() {
         ["http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/e.png"],
         ["https://www.stvr.sk/embed/live/1", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/stvr1.png"],
         ["https://www.stvr.sk/embed/live/2", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/stvr2.png"],
-        ["https://www.stvr.sk/embed/live/3", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/stvr2.png"],
+        ["https://www.stvr.sk/embed/live/3", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/stvr24.png"],
         ["https://www.joj.sk/live", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/joj.png"],
         ["https://plus.joj.sk/live", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/jojplus.png"],
         ["https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-megafrog2000.github.io/tvroyale/v1/banners/marzika.png"],
