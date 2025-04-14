@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ch1", Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="ch2", Weatherscan
+http://v1.weatherscan.net
+#EXTINF:-1 tvg-id="ch3", AWE
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1 tvg-id="ch4", Bob Ross
+https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="ch5", News Nation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="ch6", Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="ch7", FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="ch8", E!
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ch9", STVR 1
+https://www.stvr.sk/embed/live/1
+#EXTINF:-1 tvg-id="ch10", STVR 2
+https://www.stvr.sk/embed/live/2
+#EXTINF:-1 tvg-id="ch11", STVR 24
+https://www.stvr.sk/embed/live/3
+#EXTINF:-1 tvg-id="ch12", JOJ
+https://www.joj.sk/live
+#EXTINF:-1 tvg-id="ch13", JOJ Plus
+https://www.plus.joj.sk/live
+#EXTINF:-1 tvg-id="ch14", Marzika
+https://media.cms.markiza.sk/embed/markiza-live?autoplay=any
+#EXTINF:-1 tvg-id="ch15", Doma
+https://media.cms.markiza.sk/embed/doma-live?autoplay=any
+#EXTINF:-1 tvg-id="ch16", Dajto
+https://media.cms.markiza.sk/embed/dajto-live?autoplay=any
